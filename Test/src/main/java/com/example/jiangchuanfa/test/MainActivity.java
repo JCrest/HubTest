@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("hello");
         System.out.println("在网页修改");
         System.out.println("在网页又修改");
+        System.out.println("又在网页修改");
 
     }
 }
